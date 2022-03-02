@@ -10,7 +10,8 @@ module.exports = {
       'rich-black': '#0D1321',
       salsa: '#E54B4B',
       battleship: '#808782',
-      cadet: '#586F7C'
+      cadet: '#586F7C',
+      white: '#ffffff'
     },
     fontFamily: { 
       sans: ['Inter var', ...defaultTheme.fontFamily.sans],
