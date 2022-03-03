@@ -15,6 +15,8 @@ module.exports = {
       colors: {
         'rich-black': '#0D1321',
         salsa: '#E54B4B',
+        tangerine: '#f8961e',
+        sunflower: '#ffba08',
         battleship: '#808782',
         cadet: '#586F7C',
       },
