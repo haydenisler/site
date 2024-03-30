@@ -1,0 +1,10 @@
+@import './colors.css';
+
+:root {
+  background-color: var(--bg-0);
+  color: var(--text-primary);
+
+  body {
+    margin: 0;
+  }
+}
